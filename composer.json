@@ -1,0 +1,13 @@
+{
+    "name": "kaivnd/captcha",
+    "description": "A composer version of cool-php-captcha original project link here http://code.google.com/p/cool-php-captcha/",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KaivnD",
+            "email": "dengwancheng@foxmail.com"
+        }
+    ],
+    "require": {}
+}
